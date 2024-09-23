@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 15 Pro Max",
+        "price": "$1199",
+        "description": "The smartphone has a 6.7-inch (FHD+) LTPO Super Retina XDR OLED display with 2796 x 1290 Pixels resolution. The phone is available with 6 GB of RAM and 256/512 GB & 1TB internal storage. It has not to support expandable storage. Triple rear camera setup of 48+12+12 MP. On the other side, there is Single camera setup for selfies that is 12 MP. The mobile phone is based on the iOS 17 operating system and runs 4422 mAh battery capacity with fast charging. Available with Apple A17 Bionic (3nm) processor and Apple GPU (6-core graphics) graphical processing unit.",
+        "image": "images/iphone15promax.jpg",
+        "brand": "Apple"
+    },
+    {
+        "id": 2,
+        "name": "iPhone 15",
+        "price": "$799",
+        "description": "The smartphone has a 6.1-inch (FHD+) Super Retina XDR display with 2556 x 1179 Pixels resolution. The phone is available with 6 GB of RAM and 128/256/512 GB internal storage. It has not to support expandable storage. Dual rear camera setup of 48+12 MP. On the other side, there is Single camera setup for selfies that is 12 MP. The mobile phone is based on the iOS 17 operating system and runs 3279 mAh battery capacity with fast charging. Available with Apple A16 Bionic (4nm) processor and Apple GPU (5-core graphics) graphical processing unit.",
+        "image": "images/iphone15.jpg",
+        "brand": "Apple"
+    },
+    {
+        "id": 3,
+        "name": "iPhone 14 Pro",
+        "price": "$699",
+        "description": "The smartphone has a 6.1-inch (FHD+) Super Retina XDR display with 2556 x 1179 Pixels resolution. The phone is available with 6 GB of RAM and 128/256/512 GB & 1TB internal storage. It has not to support expandable storage. Triple rear camera setup of 48+12+12 MP. On the other side, there is Single camera setup for selfies that is 12 MP. The mobile phone is based on the iOS 16 operating system and runs 3200 mAh battery capacity with fast charging. Available with Apple A16 Bionic (4nm) processor and Apple GPU (5-core graphics) graphical processing unit.",
+        "image": "images/iphone14pro.jpg",
+        "brand": "Apple"
+    },
+    {
+        "id": 4,
+        "name": "iPhone 14",
+        "price": "$799",
+        "description": "The smartphone has a 6.1-inch (FHD+) Super Retina XDR display with 2556 x 1179 Pixels resolution. The phone is available with 6 GB of RAM and 128/256 GB internal storage. It has not to support expandable storage. Dual rear camera setup of 12+12 MP. On the other side, there is Single camera setup for selfies that is 12 MP. The mobile phone is based on the iOS 16 operating system and runs 3279 mAh battery capacity with fast charging. Available with Apple A15 Bionic (5nm) processor and Apple GPU (4-core graphics) graphical processing unit.",
+        "image": "images/iphone14.jpg",
+        "brand": "Apple"
+    },
+    {
+        "id": 5,
+        "name": "iPhone 13 Pro Max",
+        "price": "$1099",
+        "description": "The smartphone has a 6.7-inch (FHD+) Super Retina XDR display with 2778 x 1284 Pixels resolution. The phone is available with 6 GB of RAM and 128/256/512 GB & 1TB internal storage. It has not to support expandable storage. Triple rear camera setup of 12+12+12 MP. On the other side, there is Single camera setup for selfies that is 12 MP. The mobile phone is based on the iOS 15 operating system and runs 4352 mAh battery capacity with fast charging. Available with Apple A15 Bionic (5nm) processor and Apple GPU (5-core graphics) graphical processing unit.",
+        "image": "images/iphone13promax.jpg",
+        "brand": "Apple"
+    },
+    {
+        "id": 6,
+        "name": "iPhone 12",
+        "price": "$699",
+        "description": "The smartphone has a 6.1-inch (FHD+) Super Retina XDR display with 2532 x 1170 Pixels resolution. The phone is available with 4 GB of RAM and 64/128/256 GB internal storage. It has not to support expandable storage. Dual rear camera setup of 12+12 MP. On the other side, there is Single camera setup for selfies that is 12 MP. The mobile phone is based on the iOS 14 operating system and runs 2815 mAh battery capacity with fast charging. Available with Apple A14 Bionic (5nm) processor and Apple GPU (4-core graphics) graphical processing unit.",
+        "image": "images/iphone12.jpg",
+        "brand": "Apple"
+    },
+    {
+        "id": 7,
+        "name": "iPhone 11 Pro Max",
+        "price": "$1099",
+        "description": "The smartphone has a 6.5-inch (FHD+) Super Retina XDR display with 2688 x 1242 Pixels resolution. The phone is available with 4 GB of RAM and 64/256/512 GB internal storage. It has not to support expandable storage. Triple rear camera setup of 12+12+12 MP. On the other side, there is Single camera setup for selfies that is 12 MP. The mobile phone is based on the iOS 13 operating system and runs 3969 mAh battery capacity with fast charging. Available with Apple A13 Bionic (7nm) processor and Apple GPU (4-core graphics) graphical processing unit.",
+        "image": "images/iphone11promax.jpg",
+        "brand": "Apple"
+    },
+    {
+        "id": 8,
+        "name": "iPhone SE3",
+        "price": "$429",
+        "description": "The smartphone has a 4.7-inch (HD+) Retina display with 1334 x 750 Pixels resolution. The phone is available with 4 GB of RAM and 64/128/256 GB internal storage. It has not to support expandable storage. Single rear camera setup of 12 MP. On the other side, there is Single camera setup for selfies that is 7 MP. The mobile phone is based on the iOS 15 operating system and runs 2018 mAh battery capacity with fast charging. Available with Apple A15 Bionic (5nm) processor and Apple GPU (4-core graphics) graphical processing unit.",
+        "image": "images/iphonese3.jpg",
+        "brand": "Apple"
+    },
+    {
+        "id": 9,
+        "name": "iPhone SE2",
+        "price": "$349",
+        "description": "The smartphone has a 4.7-inch (HD+) Retina display with 1334 x 750 Pixels resolution. The phone is available with 3 GB of RAM and 64/128 GB internal storage. It has not to support expandable storage. Single rear camera setup of 12 MP. On the other side, there is Single camera setup for selfies that is 7 MP. The mobile phone is based on the iOS 13 operating system and runs 1821 mAh battery capacity with fast charging. Available with Apple A13 Bionic (7nm) processor and Apple GPU (4-core graphics) graphical processing unit.",
+        "image": "images/iphonese2.jpg",
+        "brand": "Apple"
+    },
+    {
+        "id": 10,
+        "name": "Samsung Galaxy Z Flip",
+        "price": "$999",
+        "description": "The smartphone has a 6.7-inch (FHD+) Dynamic AMOLED display with 2640 x 1080 Pixels resolution. The phone is available with 8 GB of RAM and 256 GB internal storage. It has not to support expandable storage. Dual rear camera setup of 12+12 MP. On the other side, there is Single camera setup for selfies that is 10 MP. The mobile phone is based on the Android 13 operating system and runs 3700 mAh battery capacity with fast charging. Available with Qualcomm Snapdragon 8+ Gen 1 (4nm) processor and Adreno 730 graphical processing unit.",
+        "image": "images/samsunggalaxyzflip.jpg",
+        "brand": "Samsung"
+    },
+    {
+        "id": 11,
+        "name": "Samsung Galaxy S24 Ultra",
+        "price": "$1199",
+        "description": "The smartphone has a 6.8-inch (QHD+) Dynamic AMOLED display with 3088 x 1440 Pixels resolution. The phone is available with 12 GB of RAM and 256/512 GB & 1TB internal storage. It has not to support expandable storage. Quad rear camera setup of 200+12+10+10 MP. On the other side, there is Single camera setup for selfies that is 12 MP. The mobile phone is based on the Android 14 operating system and runs 5000 mAh battery capacity with fast charging. Available with Exynos 2200 (4nm) processor and AMD RDNA 2 graphical processing unit.",
+        "image": "images/samsunggalaxys24ultra.jpg",
+        "brand": "Samsung"
+    },
+    {
+        "id": 12,
+        "name": "Samsung Galaxy S23",
+        "price": "$799",
+        "description": "The smartphone has a 6.1-inch (FHD+) Dynamic AMOLED display with 2340 x 1080 Pixels resolution. The phone is available with 8 GB of RAM and 128/256 GB internal storage. It has not to support expandable storage. Dual rear camera setup of 50+12 MP. On the other side, there is Single camera setup for selfies that is 12 MP. The mobile phone is based on the Android 13 operating system and runs 3900 mAh battery capacity with fast charging. Available with Qualcomm Snapdragon 8 Gen 2 (4nm) processor and Adreno 740 graphical processing unit.",
+        "image": "images/samsunggalaxys23.jpg",
+        "brand": "Samsung"
+    },
+    {
+        "id": 13,
+        "name": "Samsung Galaxy S22 Plus",
+        "price": "$999",
+        "description": "The smartphone has a 6.6-inch (FHD+) Dynamic AMOLED display with 2400 x 1080 Pixels resolution. The phone is available with 8 GB of RAM and 128/256 GB internal storage. It has not to support expandable storage. Triple rear camera setup of 50+12+10 MP. On the other side, there is Single camera setup for selfies that is 10 MP. The mobile phone is based on the Android 12 operating system and runs 4500 mAh battery capacity with fast charging. Available with Exynos 2200 (4nm) processor and AMD RDNA 2 graphical processing unit.",
+        "image": "images/samsunggalaxys22plus.jpg",
+        "brand": "Samsung"
+    },
+    {
+        "id": 14,
+        "name": "Samsung Galaxy M53",
+        "price": "$399",
+        "description": "The smartphone has a 6.7-inch (FHD+) Super AMOLED display with 2400 x 1080 Pixels resolution. The phone is available with 6/8 GB of RAM and 128 GB internal storage. It supports expandable storage. Quad rear camera setup of 108+8+2+2 MP. On the other side, there is Single camera setup for selfies that is 32 MP. The mobile phone is based on the Android 12 operating system and runs 5000 mAh battery capacity with fast charging. Available with MediaTek Dimensity 900 (6nm) processor and Mali-G68 graphical processing unit.",
+        "image": "images/samsunggalaxym53.jpg",
+        "brand": "Samsung"
+    },
+    {
+        "id": 15,
+        "name": "Samsung Galaxy M34",
+        "price": "$299",
+        "description": "The smartphone has a 6.5-inch (FHD+) Super AMOLED display with 2400 x 1080 Pixels resolution. The phone is available with 6/8 GB of RAM and 128 GB internal storage. It supports expandable storage. Triple rear camera setup of 50+8+2 MP. On the other side, there is Single camera setup for selfies that is 13 MP. The mobile phone is based on the Android 13 operating system and runs 6000 mAh battery capacity with fast charging. Available with Exynos 1280 (5nm) processor and Mali-G68 graphical processing unit.",
+        "image": "images/samsunggalaxym34.jpg",
+        "brand": "Samsung"
+    },
+    {
+        "id": 16,
+        "name": "Samsung Galaxy F14",
+        "price": "$199",
+        "description": "The smartphone has a 6.6-inch (FHD+) PLS LCD display with 2400 x 1080 Pixels resolution. The phone is available with 4/6 GB of RAM and 128 GB internal storage. It supports expandable storage. Dual rear camera setup of 50+2 MP. On the other side, there is Single camera setup for selfies that is 13 MP. The mobile phone is based on the Android 13 operating system and runs 6000 mAh battery capacity with fast charging. Available with Exynos 1330 (5nm) processor and Mali-G57 graphical processing unit.",
+        "image": "images/samsunggalaxyf14.jpg",
+        "brand": "Samsung"
+    },
+    {
+        "id": 17,
+        "name": "Samsung Galaxy A73 5G",
+        "price": "$499",
+        "description": "The smartphone has a 6.7-inch (FHD+) Super AMOLED display with 2400 x 1080 Pixels resolution. The phone is available with 8 GB of RAM and 128 GB internal storage. It supports expandable storage. Quad rear camera setup of 108+12+5+5 MP. On the other side, there is Single camera setup for selfies that is 32 MP. The mobile phone is based on the Android 12 operating system and runs 5000 mAh battery capacity with fast charging. Available with Qualcomm Snapdragon 778G (6nm) processor and Adreno 642L graphical processing unit.",
+        "image": "images/samsunggalaxya73.jpg",
+        "brand": "Samsung"
+    },
+    {
+        "id": 18,
+        "name": "Samsung Galaxy A03",
+        "price": "$149",
+        "description": "The smartphone has a 6.5-inch (HD+) PLS LCD display with 1600 x 720 Pixels resolution. The phone is available with 3/4 GB of RAM and 32/64 GB internal storage. It supports expandable storage. Dual rear camera setup of 48+2 MP. On the other side, there is Single camera setup for selfies that is 5 MP. The mobile phone is based on the Android 11 operating system and runs 5000 mAh battery capacity. Available with Unisoc T606 (12nm) processor and Mali-G57 graphical processing unit.",
+        "image": "images/samsunggalaxya03.jpg",
+        "brand": "Samsung"
+    },
+    {
+        "id": 19,
+        "name": "OnePlus 10T",
+        "price": "$700",
+        "description": "The smartphone has a 6.7-inch (FHD+) AMOLED display with 2412 x 1080 Pixels resolution. The phone is available with 8/12 GB of RAM and 128/256 GB internal storage. It supports expandable storage. Triple rear camera setup of 50+8+2 MP. On the other side, there is Single camera setup for selfies that is 16 MP. The mobile phone is based on the Android 12 operating system and runs 4800 mAh battery capacity with fast charging. Available with Qualcomm Snapdragon 8+ Gen 1 (4nm) processor and Adreno 730 graphical processing unit.",
+        "image": "images/oneplus10t.jpg",
+        "brand": "OnePlus"
+    },
+    {
+        "id": 20,
+        "name": "OnePlus Ace 2 Pro",
+        "price": "$699",
+        "description": "The smartphone has a 6.74-inch (FHD+) AMOLED display with 2772 x 1240 Pixels resolution. The phone is available with 16 GB of RAM and 512 GB internal storage. It supports expandable storage. Triple rear camera setup of 50+8+2 MP. On the other side, there is Single camera setup for selfies that is 16 MP. The mobile phone is based on the Android 13 operating system and runs 5000 mAh battery capacity with fast charging. Available with MediaTek Dimensity 9000 (4nm) processor and Mali-G710 graphical processing unit.",
+        "image": "images/oneplusace2pro.jpg",
+        "brand": "OnePlus"
+    },
+    {
+        "id": 21,
+        "name": "OnePlus Ace Pro",
+        "price": "$799",
+        "description": "The smartphone has a 6.7-inch (FHD+) AMOLED display with 2412 x 1080 Pixels resolution. The phone is available with 12 GB of RAM and 256 GB internal storage. It supports expandable storage. Triple rear camera setup of 50+8+2 MP. On the other side, there is Single camera setup for selfies that is 16 MP. The mobile phone is based on the Android 12 operating system and runs 4800 mAh battery capacity with fast charging. Available with Qualcomm Snapdragon 8+ Gen 1 (4nm) processor and Adreno 730 graphical processing unit.",
+        "image": "images/oneplusacepro.jpg",
+        "brand": "OnePlus"
+    },
+    {
+        "id": 22,
+        "name": "OnePlus 11R",
+        "price": "$599",
+        "description": "The smartphone has a 6.74-inch (FHD+) AMOLED display with 2772 x 1240 Pixels resolution. The phone is available with 8 GB of RAM and 128 GB internal storage. It supports expandable storage. Triple rear camera setup of 50+8+2 MP. On the other side, there is Single camera setup for selfies that is 16 MP. The mobile phone is based on the Android 13 operating system and runs 5000 mAh battery capacity with fast charging. Available with MediaTek Dimensity 8100-Max (5nm) processor and Mali-G610 graphical processing unit.",
+        "image": "images/oneplus11r.jpg",
+        "brand": "OnePlus"
+    },
+    {
+        "id": 23,
+        "name": "OnePlus Nord 2 5G",
+        "price": "$399",
+        "description": "The smartphone has a 6.43-inch (FHD+) AMOLED display with 2400 x 1080 Pixels resolution. The phone is available with 8 GB of RAM and 128 GB internal storage. It supports expandable storage. Triple rear camera setup of 50+8+2 MP. On the other side, there is Single camera setup for selfies that is 32 MP. The mobile phone is based on the Android 11 operating system and runs 4500 mAh battery capacity with fast charging. Available with MediaTek Dimensity 1200-AI (6nm) processor and Mali-G77 graphical processing unit.",
+        "image": "images/oneplusnord2.jpg",
+        "brand": "OnePlus"
+    },
+    {
+        "id": 24,
+        "name": "OnePlus Nord CE 3 Lite",
+        "price": "$299",
+        "description": "The smartphone has a 6.72-inch (FHD+) LCD display with 2400 x 1080 Pixels resolution. The phone is available with 8 GB of RAM and 128 GB internal storage. It supports expandable storage. Triple rear camera setup of 108+2+2 MP. On the other side, there is Single camera setup for selfies that is 16 MP. The mobile phone is based on the Android 13 operating system and runs 5000 mAh battery capacity with fast charging. Available with Qualcomm Snapdragon 695 (6nm) processor and Adreno 619 graphical processing unit.",
+        "image": "images/oneplusnordcelite.jpg",
+        "brand": "OnePlus"
+    },
+    {
+        "id": 25,
+        "name": "OnePlus Nord CE 3",
+        "price": "$349",
+        "description": "The smartphone has a 6.72-inch (FHD+) LCD display with 2400 x 1080 Pixels resolution. The phone is available with 8 GB of RAM and 128 GB internal storage. It supports expandable storage. Triple rear camera setup of 108+2+2 MP. On the other side, there is Single camera setup for selfies that is 16 MP. The mobile phone is based on the Android 13 operating system and runs 5000 mAh battery capacity with fast charging. Available with Qualcomm Snapdragon 695 (6nm) processor and Adreno 619 graphical processing unit.",
+        "image": "images/oneplusnordce3.jpg",
+        "brand": "OnePlus"
+    },
+    {
+        "id": 26,
+        "name": "OnePlus 9R",
+        "price": "$499",
+        "description": "The smartphone has a 6.67-inch (FHD+) AMOLED display with 2400 x 1080 Pixels resolution. The phone is available with 8 GB of RAM and 128 GB internal storage. It supports expandable storage. Quad rear camera setup of 48+16+2+5 MP. On the other side, there is Single camera setup for selfies that is 16 MP. The mobile phone is based on the Android 11 operating system and runs 4500 mAh battery capacity with fast charging. Available with Qualcomm Snapdragon 888 (5nm) processor and Adreno 660 graphical processing unit.",
+        "image": "images/oneplus9r.jpg",
+        "brand": "OnePlus"
+    },
+    {
+        "id": 27,
+        "name": "OnePlus 6",
+        "price": "$349",
+        "description": "The smartphone has a 6.28-inch (FHD+) AMOLED display with 2280 x 1080 Pixels resolution. The phone is available with 6/8 GB of RAM and 64/128 GB internal storage. It supports expandable storage. Dual rear camera setup of 16+20 MP. On the other side, there is Single camera setup for selfies that is 16 MP. The mobile phone is based on the Android 8.1 operating system and runs 3300 mAh battery capacity with fast charging. Available with Qualcomm Snapdragon 845 (10nm) processor and Adreno 630 graphical processing unit.",
+        "image": "images/oneplus6.jpg",
+        "brand": "OnePlus"
+    }
+]

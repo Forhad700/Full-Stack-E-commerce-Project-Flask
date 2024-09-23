@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>{{ product.name }}</title>
+</head>
+<body>
+    <div class="navbar">
+        <a href="/cart">Cart</a>
+        <a href="/">Home</a>
+        {% if current_user.is_authenticated %}
+            <a href="/logout">Logout</a>
+        {% else %}
+            <a href="/login">Login</a>
+        {% endif %}
+    </div>
+
+    <div class="product">
+        {% if product %}
+            <img src="{{ url_for('static', filename=product.image) }}" alt="{{ product.name }}">
+            <h2>{{ product.name }}</h2>
+            <p>Price: {{ product.price }}</p>
+            <p>{{ product.description }}</p>
+            <a href="{{ url_for('add_to_cart', product_id=product.id) }}" class="add-to-cart">Add to Cart</a>
+        {% else %}
+            <p>Product not found.</p>
+        {% endif %}
+    </div>
+    
+</body>
+</html>

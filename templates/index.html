@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Ecommerce Mobile Shop</title>
+</head>
+<body>
+    <div class="navbar">
+        <a href="/">Mobile Shop</a>
+        <div class="navbar-right">
+            {% if current_user.is_authenticated %}
+                <a href="/logout">Logout</a>
+            {% else %}
+                <a href="/login">Login</a>
+                <a href="/register">Register</a>
+            {% endif %}
+            <a href="/cart">Cart</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="sidebar">
+            <h3>Brands</h3>
+            <ul class="brand-list">
+                <li><a href="/">All</a></li>
+                <li><a href="/?brand=Apple">Apple</a></li>
+                <li><a href="/?brand=Samsung">Samsung</a></li>
+                <li><a href="/?brand=OnePlus">OnePlus</a></li>
+            </ul>
+        </div>
+
+        <div class="product-list">
+            <h1 class="products-title">Shop Smart, Live Better!</h1>
+            <div class="products-grid">
+                {% for product in products %}
+                <div class="product">
+                    <img src="{{ url_for('static', filename=product.image) }}" alt="{{ product.name }}">
+                    <h2>{{ product.name }}</h2>
+                    <p>Price: {{ product.price }}</p>
+                    <p>{{ product.description[:150] }}.....</p>
+                    <a href="/product/{{ product.id }}" class="view-details">View Details</a>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <div class="pagination">
+        {% if page > 1 %}
+            <a href="/?page={{ page - 1 }}{% if brand %}&brand={{ brand }}{% endif %}">Previous</a>
+        {% endif %}
+        {% if total_products > page * 9 %}
+            <a href="/?page={{ page + 1 }}{% if brand %}&brand={{ brand }}{% endif %}">Next</a>
+        {% endif %}
+    </div>
+</body>
+</html>
