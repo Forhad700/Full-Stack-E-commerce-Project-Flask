@@ -44,7 +44,7 @@
         "name": "iPhone 12",
         "price": "$699",
         "description": "The smartphone has a 6.1-inch (FHD+) Super Retina XDR display with 2532 x 1170 Pixels resolution. The phone is available with 4 GB of RAM and 64/128/256 GB internal storage. It has not to support expandable storage. Dual rear camera setup of 12+12 MP. On the other side, there is Single camera setup for selfies that is 12 MP. The mobile phone is based on the iOS 14 operating system and runs 2815 mAh battery capacity with fast charging. Available with Apple A14 Bionic (5nm) processor and Apple GPU (4-core graphics) graphical processing unit.",
-        "image": "images/iphone12.jpg",
+        "image": "images/iPhone12.jpg",
         "brand": "Apple"
     },
     {
@@ -68,7 +68,7 @@
         "name": "iPhone SE2",
         "price": "$349",
         "description": "The smartphone has a 4.7-inch (HD+) Retina display with 1334 x 750 Pixels resolution. The phone is available with 3 GB of RAM and 64/128 GB internal storage. It has not to support expandable storage. Single rear camera setup of 12 MP. On the other side, there is Single camera setup for selfies that is 7 MP. The mobile phone is based on the iOS 13 operating system and runs 1821 mAh battery capacity with fast charging. Available with Apple A13 Bionic (7nm) processor and Apple GPU (4-core graphics) graphical processing unit.",
-        "image": "images/iphonese2.jpg",
+        "image": "images/iPhoneSE2.jpg",
         "brand": "Apple"
     },
     {
